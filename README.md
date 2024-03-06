@@ -3,7 +3,8 @@
 - I'm an experienced microbiology professional looking for a change in career
 - I want to make data management and analysis my new professional-long-term life objective
 - I enjoy solving problems and investigating their root causes, so I can provide durable solutions
-- I am the father of an adorable 6 years old boy. He made my life pourposeful.
+- I am the father of an adorable 6-year-old boy. He made my life purposeful.
+- I can be reached at davidvillegasdev@gmail.com
 
 <!--
 **DrFungi/DrFungi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
