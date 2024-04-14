@@ -4,6 +4,7 @@
 - I want to make data management and analysis my new professional-long-term life objective
 - I enjoy solving problems and investigating their root causes, so I can provide durable solutions
 - I am the father of an adorable 6-year-old boy. He made my life purposeful.
+- I have lately discovered a passion for PL/SQL and all data related stuff.
 - I can be reached at davidvillegasdev@gmail.com
 
 <!--
