@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - I'm an experienced microbiology professional looking for a change in career
-- I want to make data management and analysis my new professional-long-term life objective
+- I want to make software and database development my new professional-long-term life objective
 - I enjoy solving problems and investigating their root causes, so I can provide durable solutions
 - I am the father of an adorable 6-year-old boy. He made my life purposeful.
-- I have lately discovered a passion for PL/SQL and all data related stuff.
+- I have discovered a passion for OOP, PL/SQL and all programming related stuff.
 - I can be reached at davidvillegasr@gmail.com
 
 <!--
